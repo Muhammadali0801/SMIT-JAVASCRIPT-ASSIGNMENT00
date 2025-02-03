@@ -19,7 +19,7 @@ This assignment included the following JavaScript tasks:
 
 ## 📂 Files Included
 - `index.html` (Main HTML file)
-- `script.js` (JavaScript code for all tasks)
+- `app.js` (JavaScript code for all tasks)
 - `README.md` (This documentation file)
 
 ## 🔥 Key Learnings
